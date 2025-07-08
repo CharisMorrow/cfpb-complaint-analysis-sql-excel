@@ -38,7 +38,7 @@ The Excel dashboard provides a visual summary of complaint resolution trends wit
 - **Pivot Table + Chart 1:** Complaint resolution by **year** with a filter for **company**
 - **Pivot Table + Chart 2:** Complaint resolution by **product** with a filter for **company**
 - **Slicers:**
-  - Slicer 1: Company  
+  - Slicer 1: Year 
   - Slicer 2: Product
 
 ---
