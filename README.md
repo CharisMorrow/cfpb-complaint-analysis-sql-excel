@@ -24,7 +24,7 @@ This project includes structured MySQL code for database setup, CSV data loading
 - **Mr. Cooper Group Inc.** experienced the longest average resolution time at around **2 days**, indicating potential regional delays or process gaps.
 - **Bread Financial Holdings, Inc.** had the highest monetary relief rate at **44%**, suggesting a resolution approach that emphasizes direct financial compensation.
 - **Capital One Financial Corporation** had the highest unresolved complaint rate with **5 unresolved complaints out of 113 total** (4% unresolved rate).
-- **Minnesota** reported the highest average complaint resolution time among all states at **2.1 days**, based on 24 resolved complaints.
+- **Minnesota** reported the highest average complaint resolution time among all states at **2 days**, based on 24 resolved complaints.
 
 ---
 
