@@ -70,6 +70,7 @@ The Excel dashboard provides a visual summary of complaint resolution trends wit
 The `data/` folder contains the cleaned complaint dataset used in the MySQL portion of this project.
 
 - `cfpb_complaints_data_mysql.csv`: Cleaned and filtered dataset for SQL analysis, prepared for import into a MySQL database. Includes key fields such as `company_name`, `product_name`, `date_received`,  `state`, `complaint_narrative`, `resolution`, and `date_closed`.
+> 📌 Note: GitHub does not preview the full `cfpb_complaints_data_mysql.csv` file due to size limits, but it can still be downloaded and used for SQL analysis.
 
 ---
 
