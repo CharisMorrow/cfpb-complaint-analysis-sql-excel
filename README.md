@@ -6,6 +6,28 @@ This project includes structured MySQL code for database setup, CSV data loading
 
 ---
 
+## 📦 Data Sampling & Insights
+**Data Format:** CSV  
+**Initial Download:** ~100k–200k rows filtered from the full dataset
+
+### 📋 Filtering Criteria:
+- `date_received` between **2022 and 2025**
+- `product` includes:
+  - Credit card  
+  - Checking or savings account  
+  - Mortgage  
+- Top 20 companies by complaint volume retained
+**Data Range:** 2022–2025  
+**Final Sample Used:** 1,813 complaints (cleaned and prepared for SQL analysis)
+
+### 🔍 Key Insights:
+- **Mr. Cooper Group Inc.** experienced the longest average resolution time at around **2 days**, indicating potential regional delays or process gaps.
+- **Bread Financial Holdings, Inc.** had the highest monetary relief rate at **44%**, suggesting a resolution approach that emphasizes direct financial compensation.
+- **Capital One Financial Corporation** had the highest unresolved complaint rate with **5 unresolved complaints out of 113 total** (4% unresolved rate).
+- **Minnesota** reported the highest average complaint resolution time among all states at **2.1 days**, based on 24 resolved complaints.
+
+---
+
 ## 🐬 MySQL Project Overview
 
 The MySQL portion of this project includes a complete pipeline to structure, clean, and analyze complaint data.
@@ -65,7 +87,7 @@ The Excel dashboard provides a visual summary of complaint resolution trends wit
 1. Clone the repository to your local machine.
 2. Run the SQL scripts in MySQL Workbench or your preferred SQL environment in the order listed above.
 3. Open the Excel file to explore the dashboard and use the filters to view complaint trends.
-4. Use the slicers to enhance the interactivity of your analysis by company and product.
+4. Use the slicers to enhance the interactivity of your analysis by year and product.
 
 ---
 
