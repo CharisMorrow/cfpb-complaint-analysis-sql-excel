@@ -65,6 +65,26 @@ The Excel dashboard provides a visual summary of complaint resolution trends wit
 
 ---
 
+## 📂 Data Folder
+
+The `data/` folder contains the cleaned complaint dataset used in the MySQL portion of this project.
+
+- `cfpb_complaints_data_mysql.csv`: Cleaned and filtered dataset for SQL analysis, prepared for import into a MySQL database. Includes key fields such as `company_name`, `product_name`, `date_received`,  `state`, `complaint_narrative`, `resolution`, and `date_closed`.
+
+---
+
+## 📂 Analysis Results
+
+The `analysis_results/` folder includes an Excel file summarizing the output of SQL queries used in this project.
+
+- `cfpb_sql_analysis_results.xlsx`: Formatted workbook with individual worksheets for each analysis, including:
+  - Average resolution time by company
+  - Percentage of complaints resolved with monetary relief
+  - Unresolved complaint rates by company
+  - Average resolution time by state
+
+---
+
 ## 💡 Skills Demonstrated
 
 - SQL database design & normalization  
