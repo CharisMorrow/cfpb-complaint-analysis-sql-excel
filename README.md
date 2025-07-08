@@ -13,8 +13,8 @@ This project includes structured MySQL code for database setup, CSV data loading
 ### 📋 Filtering Criteria:
 - `date_received` between **2022 and 2025**
 - `product` includes:
-  - Credit card  
-  - Checking or savings account  
+  - Checking or savings account
+  - Credit card
   - Mortgage  
 - Top 20 companies by complaint volume retained
 **Data Range:** 2022–2025  
