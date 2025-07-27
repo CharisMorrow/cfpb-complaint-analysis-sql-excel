@@ -2,7 +2,7 @@
 
 This portfolio project demonstrates how the [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/data-research/consumer-complaints/) complaint dataset can be analyzed using both **MySQL** and **Excel**. It showcases data modeling, cleaning, querying, and dashboarding skills to extract and present insights about complaint resolution trends across companies and products.
 
-This project includes structured MySQL code for database setup, CSV data loading, and SQL queries to analyze metrics such as **average resolution time**, **monetary relief percentages**, and **unresolved complaint rates**. The Excel dashboard visualizes complaint trends by **year** and **product** using PivotTables and PivotCharts, each with built-in **company level filtering**. The dashboard also includes **two slicers** to enhance interactivity.
+This project includes structured MySQL code for database setup, CSV data loading, and SQL queries to analyze metrics such as **average resolution time**, **monetary relief percentages**, and **unresolved complaint rates**. The Excel dashboard visualizes complaint trends by **year** and **product** using PivotTables and charts, each with built-in **company level filtering**. The dashboard also includes **two slicers** to enhance interactivity.
 
 ---
 
